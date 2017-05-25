@@ -1,14 +1,14 @@
 package ru.job4j;
 
 /**
-*Class Calculate решение задачи части 001 урок 1.
+*Class Calculate СЂРµС€РµРЅРёРµ Р·Р°РґР°С‡Рё С‡Р°СЃС‚Рё 001 СѓСЂРѕРє 1.
 *@author amiroshnichenko
 *@since 25.05.2017
 */
 public class Calculate {
 	
 	/**
-	* Конструктор вывода строки в консоль.
+	* РљРѕРЅСЃС‚СЂСѓРєС‚РѕСЂ РІС‹РІРѕРґР° СЃС‚СЂРѕРєРё РІ РєРѕРЅСЃРѕР»СЊ.
 	* @param arg - arg.
 	*/
 	public static void main(String[] args) {
