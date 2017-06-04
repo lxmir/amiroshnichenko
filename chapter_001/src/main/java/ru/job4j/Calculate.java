@@ -6,12 +6,11 @@ package ru.job4j;
 *@since 25.05.2017
 */
 public class Calculate {
-	
 	/**
 	* Конструктор вывода строки в консоль.
 	* @param arg - arg.
 	*/
-	public static void main(String[] args) {
+	public static void main(String[] arg) {
 		System.out.println("Hello World");
 	}
 }
