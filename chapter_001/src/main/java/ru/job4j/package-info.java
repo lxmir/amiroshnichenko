@@ -1,4 +1,4 @@
-﻿/**
+/**
 * Package for calculate task.
 *
 * @author Aleksey Miroshnichenko (mailto:lxmir@ya.ru)
